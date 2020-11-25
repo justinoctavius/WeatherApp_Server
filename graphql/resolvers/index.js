@@ -1,4 +1,4 @@
-const GetWeather = require('../../data');
+const { GetWeather } = require('../../data');
 
 const resolvers = {
   Query: {
